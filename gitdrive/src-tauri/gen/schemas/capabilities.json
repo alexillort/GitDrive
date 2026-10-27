@@ -1,0 +1,1 @@
+{"main-capability":{"identifier":"main-capability","description":"Main window, native directory picker and backup reminders","local":true,"windows":["main"],"permissions":["core:default","dialog:allow-open","notification:default"]}}
